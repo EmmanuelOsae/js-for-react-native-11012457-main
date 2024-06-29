@@ -1,6 +1,6 @@
 # Assignment 1 - Mobile Application Development
 
-## Student ID: [11353688]
+## Student ID: [11012457]
 
 ### Task 1
 - Implemented `processArray` function in `arrayManipulation.js` which processes an array of numbers by squaring even numbers and tripling odd numbers.
